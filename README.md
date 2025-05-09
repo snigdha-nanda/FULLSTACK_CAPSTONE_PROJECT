@@ -15,7 +15,7 @@ The [Movies Entertainment App](https://movies-entertainment-app-three-triump.net
 
 ##  Preview
 
-To use the application, visit [Movies Entertainment App](https://movies-entertainment-app-three-triump.netlify.app/) and log in using your Google or Github account to access extra features like reviews and bookmarks.
+To use the application, visit [Movies Entertainment App](https://movies-entertainment-app-three-triump.netlify.app/) and log in using your Google or Github account to access extra features like reviews and bookmarks. You can find the API documentation [here](https://documenter.getpostman.com/view/43038266/2sB2j97Uiq)
 
 ##  Technologies Used
 
